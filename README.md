@@ -33,7 +33,7 @@
     <ul>
       <li><a href="https://www.linkedin.com/in/yourname" target="_blank">LinkedIn</a></li>
       <li><a href="https://yourresume.com" target="_blank">Resume</a></li>
-      <li><a href="mailto:youremail@example.com">Email Me</a></li>
+      <li><a href="game.html">🎮 Play My Game!</a></li>
     </ul>
   </section>
 
